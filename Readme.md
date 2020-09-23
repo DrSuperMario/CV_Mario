@@ -1,2 +1,2 @@
-##CV in Jupyter notebook
-#By Mario Muuk aka DrSuperMario
+## CV in Jupyter notebook
+# By Mario Muuk aka DrSuperMario
