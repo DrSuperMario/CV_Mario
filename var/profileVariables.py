@@ -1,7 +1,8 @@
-import pandas as pd 
 import matplotlib.pyplot as plt 
 import matplotlib.image as imgRead
 from enum import Enum
+
+profilePicture = imgRead.imread('ink.png')
 
 class ProfileStatic(Enum):
 
